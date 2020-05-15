@@ -1,0 +1,36 @@
+{
+    "editor.formatOnSave": true,
+    "emmet.includeLanguages": {},
+    "cSpell.ignoreWords": [
+        "a",
+        "adipisicing",
+        "amet",
+        "aut",
+        "brand",
+        "class",
+        "consectetur",
+        "consequuntur",
+        "corporis",
+        "dolor",
+        "dolorum",
+        "elit",
+        "id",
+        "illo",
+        "incidunt",
+        "ipsum",
+        "logo",
+        "lorem",
+        "name",
+        "poke'times",
+        "praesentium",
+        "qui",
+        "sit",
+        "todo",
+        "totam",
+        "unde",
+        "voluptate"
+    ],
+    "cSpell.words": [
+        "Todos"
+    ]
+}
